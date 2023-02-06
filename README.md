@@ -1,1 +1,1 @@
-# Program-Deteksi-Penyakit-Tanaman-Stroberi
+# Program Deteksi Penyakit Tanaman Stroberi
